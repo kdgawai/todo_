@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//Kdgawai.github.io/todo_/static/css/main.50a843f1.css",
+    "main.js": "/https//Kdgawai.github.io/todo_/static/js/main.d171fd7d.js",
+    "static/js/787.b3d22a87.chunk.js": "/https//Kdgawai.github.io/todo_/static/js/787.b3d22a87.chunk.js",
+    "index.html": "/https//Kdgawai.github.io/todo_/index.html",
+    "main.50a843f1.css.map": "/https//Kdgawai.github.io/todo_/static/css/main.50a843f1.css.map",
+    "main.d171fd7d.js.map": "/https//Kdgawai.github.io/todo_/static/js/main.d171fd7d.js.map",
+    "787.b3d22a87.chunk.js.map": "/https//Kdgawai.github.io/todo_/static/js/787.b3d22a87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50a843f1.css",
+    "static/js/main.d171fd7d.js"
+  ]
+}
