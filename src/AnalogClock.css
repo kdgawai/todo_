@@ -1,0 +1,64 @@
+.analog-clock {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 200px;
+    right: 20px;
+  }
+  
+  .clock-face {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff83;
+    border-radius: 50%;
+    position: relative;
+  }
+  
+  .hand {
+    position: absolute;
+    transform-origin: 50% 100%;
+    transition: transform 0.5s cubic-bezier(0.4, 2.1, 0.2, 1);
+  }
+  
+  .hour {
+    width: 4px;
+    height: 25%;
+    background-color: #00ff1e;
+    top: 26%;
+    left: 47%;
+    transform: translateX(-2px);
+    z-index: 2;
+  }
+  
+  .minute {
+    width: 2px;
+    height: 40%;
+    background-color: #ffffff;
+    top: 9%;
+    left: 49%;
+    transform: translateX(-1px);
+    z-index: 3;
+  }
+  
+  .second {
+    width: 1px;
+    height: 45%;
+    background-color: red;
+    top: 2.5%;
+    left: 49.5%;
+    transform: translateX(-0.5px);
+    z-index: 4;
+  }
+  
+  .center-circle {
+    width: 30px;
+    height: 30px;
+    background-color: #333333;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 5;
+  }
+  
